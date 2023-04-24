@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "@truffle/hdwallet-provider": "^2.1.10"
+    "@truffle/hdwallet-provider": "^2.1.10",
+    "child_process": "^1.0.2"
   }
 }
